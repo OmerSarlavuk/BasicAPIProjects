@@ -1,0 +1,12 @@
+C:\Users\Public\Source2\Holding\Holding.Model\bin\Debug\net6.0\Holding.Model.deps.json
+C:\Users\Public\Source2\Holding\Holding.Model\bin\Debug\net6.0\Holding.Model.dll
+C:\Users\Public\Source2\Holding\Holding.Model\bin\Debug\net6.0\Holding.Model.pdb
+C:\Users\Public\Source2\Holding\Holding.Model\obj\Debug\net6.0\Holding.Model.csproj.AssemblyReference.cache
+C:\Users\Public\Source2\Holding\Holding.Model\obj\Debug\net6.0\Holding.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Source2\Holding\Holding.Model\obj\Debug\net6.0\Holding.Model.AssemblyInfoInputs.cache
+C:\Users\Public\Source2\Holding\Holding.Model\obj\Debug\net6.0\Holding.Model.AssemblyInfo.cs
+C:\Users\Public\Source2\Holding\Holding.Model\obj\Debug\net6.0\Holding.Model.csproj.CoreCompileInputs.cache
+C:\Users\Public\Source2\Holding\Holding.Model\obj\Debug\net6.0\Holding.Model.dll
+C:\Users\Public\Source2\Holding\Holding.Model\obj\Debug\net6.0\refint\Holding.Model.dll
+C:\Users\Public\Source2\Holding\Holding.Model\obj\Debug\net6.0\Holding.Model.pdb
+C:\Users\Public\Source2\Holding\Holding.Model\obj\Debug\net6.0\ref\Holding.Model.dll

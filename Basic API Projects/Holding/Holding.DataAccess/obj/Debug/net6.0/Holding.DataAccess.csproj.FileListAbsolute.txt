@@ -1,0 +1,15 @@
+C:\Users\Public\Source2\Holding\Holding.DataAccess\bin\Debug\net6.0\Holding.DataAccess.deps.json
+C:\Users\Public\Source2\Holding\Holding.DataAccess\bin\Debug\net6.0\Holding.DataAccess.dll
+C:\Users\Public\Source2\Holding\Holding.DataAccess\bin\Debug\net6.0\Holding.DataAccess.pdb
+C:\Users\Public\Source2\Holding\Holding.DataAccess\bin\Debug\net6.0\Holding.Model.dll
+C:\Users\Public\Source2\Holding\Holding.DataAccess\bin\Debug\net6.0\Holding.Model.pdb
+C:\Users\Public\Source2\Holding\Holding.DataAccess\obj\Debug\net6.0\Holding.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Public\Source2\Holding\Holding.DataAccess\obj\Debug\net6.0\Holding.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Source2\Holding\Holding.DataAccess\obj\Debug\net6.0\Holding.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Public\Source2\Holding\Holding.DataAccess\obj\Debug\net6.0\Holding.DataAccess.AssemblyInfo.cs
+C:\Users\Public\Source2\Holding\Holding.DataAccess\obj\Debug\net6.0\Holding.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Public\Source2\Holding\Holding.DataAccess\obj\Debug\net6.0\Holding.DataAccess.csproj.CopyComplete
+C:\Users\Public\Source2\Holding\Holding.DataAccess\obj\Debug\net6.0\Holding.DataAccess.dll
+C:\Users\Public\Source2\Holding\Holding.DataAccess\obj\Debug\net6.0\refint\Holding.DataAccess.dll
+C:\Users\Public\Source2\Holding\Holding.DataAccess\obj\Debug\net6.0\Holding.DataAccess.pdb
+C:\Users\Public\Source2\Holding\Holding.DataAccess\obj\Debug\net6.0\ref\Holding.DataAccess.dll

@@ -1,0 +1,15 @@
+C:\Users\Public\Source2\HotelFinder\HotelFinder.DataAccess\bin\Debug\net6.0\HotelFinder.DataAccess.deps.json
+C:\Users\Public\Source2\HotelFinder\HotelFinder.DataAccess\bin\Debug\net6.0\HotelFinder.DataAccess.dll
+C:\Users\Public\Source2\HotelFinder\HotelFinder.DataAccess\bin\Debug\net6.0\HotelFinder.DataAccess.pdb
+C:\Users\Public\Source2\HotelFinder\HotelFinder.DataAccess\bin\Debug\net6.0\HotelFinder.Model.dll
+C:\Users\Public\Source2\HotelFinder\HotelFinder.DataAccess\bin\Debug\net6.0\HotelFinder.Model.pdb
+C:\Users\Public\Source2\HotelFinder\HotelFinder.DataAccess\obj\Debug\net6.0\HotelFinder.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Public\Source2\HotelFinder\HotelFinder.DataAccess\obj\Debug\net6.0\HotelFinder.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Source2\HotelFinder\HotelFinder.DataAccess\obj\Debug\net6.0\HotelFinder.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Public\Source2\HotelFinder\HotelFinder.DataAccess\obj\Debug\net6.0\HotelFinder.DataAccess.AssemblyInfo.cs
+C:\Users\Public\Source2\HotelFinder\HotelFinder.DataAccess\obj\Debug\net6.0\HotelFinder.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Public\Source2\HotelFinder\HotelFinder.DataAccess\obj\Debug\net6.0\HotelFinder.DataAccess.csproj.CopyComplete
+C:\Users\Public\Source2\HotelFinder\HotelFinder.DataAccess\obj\Debug\net6.0\HotelFinder.DataAccess.dll
+C:\Users\Public\Source2\HotelFinder\HotelFinder.DataAccess\obj\Debug\net6.0\refint\HotelFinder.DataAccess.dll
+C:\Users\Public\Source2\HotelFinder\HotelFinder.DataAccess\obj\Debug\net6.0\HotelFinder.DataAccess.pdb
+C:\Users\Public\Source2\HotelFinder\HotelFinder.DataAccess\obj\Debug\net6.0\ref\HotelFinder.DataAccess.dll
